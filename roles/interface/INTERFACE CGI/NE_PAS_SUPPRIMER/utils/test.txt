@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mise a jour du tableau de bord des scripts par batch </title>
+
+</head>
+<body>
+Machine : INFO06<br> Script : Train_de_paye.bat transB25 => GDAP<br> Etat : 1<br>Nb de ligne du count(*) : 0<br>			
+		
+	
+
+</body>
+</html>
